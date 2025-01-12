@@ -16,3 +16,12 @@ rustc --version
 # Package manager
 Cargo is Rust's package manager and build system, designed to simplify the process of managing dependencies, building projects and running code. 
 cargo --version
+
+# Create a Project 
+cargo new hello_world
+
+# Build the Project
+cargo build
+
+# Run the Project
+cargo run
