@@ -2,7 +2,7 @@
 // Rust has two types of errors:
 // 1. Recoverable errors: These can be handled, like file not found. Rust uses `Result<T, E>` for these.
 // 2. Unrecoverable errors: These cause the program to stop immediately using `panic!()`.
-// unrecoverable turkcesi ne?
+
 fn main()
 {
     // Example of unrecoverable error
